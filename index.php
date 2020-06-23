@@ -7,7 +7,7 @@
  */
 
 /**
- * Tells WordPress to load the WordPress theme and output it. testing cicd Waheguruji Satnamji
+ * Tells WordPress to load the WordPress theme and output it. testing cicd Waheguruji Satnamji kirpa karo ji
  *
  * @var bool
  */
